@@ -17,7 +17,7 @@
 	
 	
 ?>
-	<!--
+	
 	<html>
 		<body>
 			<form  method="POST" action="index.php" >
@@ -31,18 +31,15 @@
 	
 	
 	</html>
-	-->
-	<html>
-		
-	</html>
+
 <?php
 	
 	#Usar formulário e funções da classe Musica
-	/*if($_POST != NULL){
+	if($_POST != NULL){
 		$musica = new Musica($_POST['musica'], $_POST['cantor']);
 	
 		echo $musica->qual();
-	}*/
+	}
 	
 	
 ?>
