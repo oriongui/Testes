@@ -30,8 +30,7 @@
 		</body>
 	
 	
-	</html>
-
+	
 <?php
 	
 	#Usar formulário e funções da classe Musica
@@ -43,3 +42,7 @@
 	
 	
 ?>
+
+	<a href="exercicios.php">Vamos para a execução dos exercicios.</a>
+
+	</html>
